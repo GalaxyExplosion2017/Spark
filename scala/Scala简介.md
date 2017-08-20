@@ -8,7 +8,7 @@
 
 ● Scala 源代码被编译成Java字节码，所以它可以运行于JVM之上，并可以调用现有的Java类库。
 
- ![img](C:\Users\ZhangJiachen\Desktop\pic\bd315c6034a85edf1dc8c2034d540923dd54754d.jpg)
+ ![bd315c6034a85edf1dc8c2034d540923dd54754d](C:\Users\ZhangJiachen\Desktop\pic\bd315c6034a85edf1dc8c2034d540923dd54754d.jpg)
 
 **Scala 简介---历史由来**
 
