@@ -8,15 +8,13 @@
 
 ● Scala 源代码被编译成Java字节码，所以它可以运行于JVM之上，并可以调用现有的Java类库。
 
- ![bd315c6034a85edf1dc8c2034d540923dd54754d](C:\Users\ZhangJiachen\Desktop\pic\bd315c6034a85edf1dc8c2034d540923dd54754d.jpg)
+ ![img](C:\Users\ZhangJiachen\Desktop\pic\bd315c6034a85edf1dc8c2034d540923dd54754d.jpg)
 
 **Scala 简介---历史由来**
 
- ![2](C:\Users\ZhangJiachen\Desktop\pic\2.png)
+ ![img](C:\Users\ZhangJiachen\Desktop\pic\2.png)
 
 ● 2001年基于Funnel的工作开始设计Scala
-
-![2](C:\Users\ZhangJiachen\Desktop\pic\2.png)
 
 ● Java平台的Scala于2003年底/2004年初发布
 
