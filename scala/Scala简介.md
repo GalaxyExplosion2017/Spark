@@ -16,6 +16,8 @@
 
 ● 2001年基于Funnel的工作开始设计Scala
 
+![2](C:\Users\ZhangJiachen\Desktop\pic\2.png)
+
 ● Java平台的Scala于2003年底/2004年初发布
 
 ● .NET平台的Scala发布于2004年6月
