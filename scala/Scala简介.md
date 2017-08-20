@@ -12,7 +12,7 @@
 
 **Scala 简介---历史由来**
 
- ![img](C:\Users\ZhangJiachen\Desktop\pic\2.png)
+ ![img](http://ke.dajiangtai.com/content/2501/2.png)
 
 ● 2001年基于Funnel的工作开始设计Scala
 
